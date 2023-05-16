@@ -6,6 +6,13 @@
       "Hotel":"Taj",
       "Price":"232432",
       "Catagory":"Primium"
+    },
+    {
+      "location":"India",
+      "City":"Delhi",
+      "Hotel":"Taj",
+      "Price":"232432",
+      "Catagory":"Primium"
     }
   ]
 }
