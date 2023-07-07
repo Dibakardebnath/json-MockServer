@@ -1,18 +1,26 @@
-{
-  "Travel":[
-    {
-      "location":"India",
-      "City":"Delhi",
-      "Hotel":"Taj",
-      "Price":"232432",
-      "Catagory":"Primium"
-    },
-    {
-      "location":"India",
-      "City":"Delhi",
-      "Hotel":"Taj",
-      "Price":"232432",
-      "Catagory":"Primium"
-    }
-  ]
-}
+ {
+            id:1,
+            quantity:1,
+            title:"Capacinos",
+            image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtwQuvcZU_5Z0lGK5Vn5CSayzHnbS-_DEfd8ixucAhShPMRWII12I0HFEhLYClRkRFoh0&usqp=CAU",
+            cup1:"4 Cups",
+            cup2:"8 Cups",
+            price:150
+        },
+        {
+            id:2,
+            quantity:1,
+            title:"Black Coffee",
+            image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlb6vZRvaAGuq8Xn2gJP3idCL4Fv6D2X8gQ&usqp=CAU",
+            cup1:"5 Cups",
+            cup2:"9 Cups",
+            price:200
+        }, {
+            id:3,
+            quantity:1,
+            title:"Nescaffe",
+            image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2QtbspNQASoWZq7JTZEm3M50XjqUpDufshr3ouonzydm_e0_amWF01Uef9u4te3WzrRI&usqp=CAU",
+            cup1:"2 Cups",
+            cup2:"4 Cups",
+            price:350
+        }
